@@ -3,8 +3,11 @@ import json
 import time
 import os
 
+#Insira sua chave API da steam
 STEAM_API_KEY = "SUA API DA STEAM"
+#Insira seu id da steam
 STEAM_ID_64 = "SEU ID DA STEAM"
+#insira o id do jogo em questão
 GAME_APP_ID = "ID DO SEU JOGO"
 
 OUTPUT_FILE_PATH = os.path.join(os.path.dirname(__file__), "conquistas_steam.txt")
