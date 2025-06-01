@@ -1,0 +1,1 @@
+# Contador-de-trof-us-no-OBS-para-jogos-Steam-e-n-o-Steam
