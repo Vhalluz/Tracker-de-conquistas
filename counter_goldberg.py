@@ -8,8 +8,8 @@ PASTA_GOLDBERG = r'CAMINHO ONDE O GOLDBERG CRIA O ARQUIVO DE CONQUISTA EX:c:\Use
 # Nome do arquivo que o Goldberg cria, não precisa mudar esse
 ARQUIVO_CONQUISTAS = 'achievements.json' 
 
-# Cria o arquivo que deve ser carregado no Obs na fonte de texto (não esqueça de colocar .txt no final)
-ARQUIVO_SAIDA_OBS = r'CAMINHO ONDE O OBS VAI CRIAR O ARQUIVO PARA EXECUTAR NO OBS Ex: c:\Users\User\Documents\Script\obs_conquistas.txt'
+# Cria o arquivo .txt no mesmo diretório do script
+ARQUIVO_SAIDA_OBS = os.path.join(os.path.dirname(__file__), "goldberg_conquistas.txt")
 
 # Número de conquistas do jogo em qustão
 TOTAL_CONQUISTAS = 00
