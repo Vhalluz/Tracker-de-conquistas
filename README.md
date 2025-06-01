@@ -1,1 +1,1 @@
-# Tracker para jogos Steam e para jogos não Steam
+# Tracker para jogos Steam e para jogos não Steam no Obs
