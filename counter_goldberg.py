@@ -2,14 +2,14 @@ import time
 import os
 import json 
 
-# Coloque entre ''
+# Coloque entre '' em todas as instruções abaixo
 PASTA_GOLDBERG = r'CAMINHO ONDE O GOLDBERG CRIA O ARQUIVO DE CONQUISTA EX:c:\Users\User\AppData\Roaming\GSE Saves\ID DO JOGO' 
 
 # Nome do arquivo que o Goldberg cria, não precisa mudar esse
 ARQUIVO_CONQUISTAS = 'achievements.json' 
 
-# Cria o arquivo que deve ser carregado no Obs na fonte de texto
-ARQUIVO_SAIDA_OBS = r'CAMINHO ONDE O OBS VAI CRIAR O ARQUIVO PARA EXECUTAR NO OBS'
+# Cria o arquivo que deve ser carregado no Obs na fonte de texto (não esqueça de colocar .txt no final)
+ARQUIVO_SAIDA_OBS = r'CAMINHO ONDE O OBS VAI CRIAR O ARQUIVO PARA EXECUTAR NO OBS Ex: c:\Users\User\Documents\Script\obs_conquistas.txt'
 
 # Número de conquistas do jogo em qustão
 TOTAL_CONQUISTAS = 00
