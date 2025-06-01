@@ -1,1 +1,1 @@
-# Contador-de-trof-us-no-OBS-para-jogos-Steam-e-n-o-Steam
+# Tracker para jogos Steam e para jogos não Steam
