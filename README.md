@@ -1,1 +1,1 @@
-# Tracker para jogos Steam e para jogos não Steam no Obs
+# Tracker para jogos Steam e para jogos não Steam (GoldBerg) no Obs
