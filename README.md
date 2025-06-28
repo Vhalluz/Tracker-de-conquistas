@@ -10,7 +10,7 @@ Para iniciar o script e faze-lo funcionar abra o cmd, copie o diretório de onde
   
 Agora digite o codigo:
 
-  - ./nome do script ex: ./counter_goldberg.py 
+  - ./nome do script ex: python ./counter_goldberg.py 
 
 Pronto agora divirtasse, e não se esqueça de manter o cmd aberto enquanto joga.
 
